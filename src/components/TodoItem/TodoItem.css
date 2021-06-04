@@ -1,0 +1,17 @@
+.buttonDelete {
+  float: right;
+  margin-right: 10px;
+  background-color: red;
+  padding: 3px 10px;
+  border: none;
+  outline: none !important;
+  border-radius: 5px;
+  color: white;
+}
+.listedItemCompleted {
+  text-decoration: line-through;
+}
+div,
+button {
+  cursor: pointer;
+}
